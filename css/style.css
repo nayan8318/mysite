@@ -1,0 +1,227 @@
+body {
+  margin: 0;
+  background-color: grey;
+  text-align: center;
+  position: relative;
+}
+
+.top-con {
+  background-color: #ffd5cd ;
+  margin: 0;
+  padding-top: 20px;
+  position: relative;
+}
+.mid-con {
+
+ padding-bottom: 100px;
+  background-color: #fabea7;
+}
+
+.trees {
+  height: 550px;
+  width: 550px;
+  margin-bottom: 0;
+}
+.cloud{
+  position: absolute;
+  top: 50px;
+  left: 900px;
+}
+.cloudd{
+  position: absolute;
+  top: 150px;
+  left: 380px;
+}
+.name {
+  font-family: 'Sacramento', cursive;
+  margin: 0;
+  color: red;
+  width: 30%;
+  margin: 160px auto 0 auto;
+  font-size: 60px;
+
+}
+.h41{
+  font-family: 'Satisfy', cursive;
+  color: #DC143C;
+  font-size: 25px;
+  margin: 10px 0 0 0;
+}
+.para1 {
+  margin: 10px 0 0 0;
+  font-family: 'Satisfy', cursive;
+  color: #FF6347;
+  font-size: 15px;
+  font-weight: bold;
+}
+.pro{
+  margin-top: 100px;
+  height: 220px;
+  width: 220px;
+}
+.wr1{
+  margin: 0 auto auto 10px;
+  width 1%;
+  font-size: 20px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-family: 'Oleo Script', cursive;
+
+}
+.h621{
+   padding-top: 30px;
+   margin: 10px auto auto 0;
+    width 10%;
+  font-size: 30px;
+  font-family: 'Kreon', serif;
+font-family: 'Oleo Script', cursive;
+  color: #DC143C ;
+}
+.h622{
+  padding: 10px auto 0 auto;
+  margin: 0 auto 10px auto;
+   width 10%;
+ font-size: 30px;
+ font-family: 'Kreon', serif;
+font-family: 'Oleo Script', cursive;
+color: #DC143C;
+
+}
+.img1{
+  float: left;
+  height: 150px;
+  width: 150px;
+  padding-bottom: 20px;
+}
+.img2{
+  float: right;
+  height: 150px;
+  width: 150px;
+  padding-bottom: 20px;
+}
+
+.skill1{
+  background-color: #ffd5cd ;
+  text-align: left;
+  width: auto;
+  margin :100px auto;
+  padding-bottom: 30px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.skill2{
+  background-color: #ffd5cd ;
+  text-align: right;
+  width: auto;
+  margin : 100px auto;
+  padding-bottom: 80px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-bottom: 0;
+}
+.bot-con {
+
+  padding-top: 100px;
+  margin: auto;
+  background-color: #ffd5cd ;
+}
+.wr2{
+  margin: 0 auto auto 10px;
+  width 1%;
+  font-size: 20px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 200px;
+    font-family: 'Oleo Script', cursive;
+    font-weight: lighter;
+
+}
+.wr3{
+  margin: 0 auto auto 10px;
+  width 1%;
+  font-size: 20px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-right: 200px;
+    font-family: 'Oleo Script', cursive;
+    font-weight: lighter;
+
+}
+.title1{
+  margin-left: 210px;
+  font-family: 'Kreon', serif;
+font-family: 'Oleo Script', cursive;
+font-weight: lighter;
+font-size: 25px;
+color: #DB7093;
+
+
+}
+
+  .title2{
+    margin-right: 210px;
+    font-family: 'Kreon', serif;
+font-family: 'Oleo Script', cursive;
+font-weight: lighter;
+font-size: 25px;
+color: #DB7093;
+
+
+  }
+hr {
+
+  width: 5%;
+   border : dotted;
+   color:#FFC0CB
+
+}
+.h2{
+  color: #DC143C;
+  font-family: 'Kreon', serif;
+ font-family: 'Oleo Script', cursive;
+ font-size: 25px;
+ font-weight: lighter;
+}
+.h4{
+  color: #DB7093;
+    font-family: 'Oleo Script', cursive;
+    font-size: 23px;
+    font-weight: lighter;
+}
+.p{
+    font-family: 'Oleo Script', cursive;
+    font-size: 17px;
+    font-weight: lighter;
+    margin-bottom: 60px;
+}
+.myButton {
+	box-shadow:inset -4px -3px 0px 0px #f7c5c0;
+	background-color:#fc8d83;
+	border-radius:7px;
+	border:3px solid #d83526;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	padding:9px 20px;
+	text-decoration:none;
+	text-shadow:2px 1px 0px #b23e35;
+  margin-bottom: 40px;
+}
+.myButton:hover {
+	background-color:#e4685d;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  background-color:  #fabea7;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.footer-link1{
+  padding-right: 10px;
+}
